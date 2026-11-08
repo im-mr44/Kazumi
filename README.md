@@ -1,6 +1,6 @@
 <div align=center>
 
-<h1>Kazumi</h1>
+<h1>☆YAGA☆</h1>
 
 <img src="assets/images/logo/logo_rounded.png" width=200></img>
 
